@@ -1,0 +1,30 @@
+{
+  "name": "tappx-admob-custom-event",
+  "version": "0.1.0",
+  "description": "A sample for a new cordova plugin",
+  "cordova": {
+    "id": "tappx-admob-custom-event",
+    "platforms": [
+      "android",
+      "ios",
+      "wp7"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanael540/tappx-cordova-admob-custom-event.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "hello",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Don Coleman",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/nathanael540/tappx-cordova-admob-custom-event/issues"
+  },
+  "homepage": "https://github.com/nathanael540/tappx-cordova-admob-custom-event#readme"
+}
